@@ -1,0 +1,13 @@
+fastapi==0.142.2
+uvicorn[standard]==0.46.0
+sqlalchemy==2.1.1
+psycopg[binary]==3.3.6
+pgvector==0.5.0
+pydantic-settings>=2.6
+pyjwt==2.12.1
+bcrypt==5.0.0
+python-multipart==0.0.26
+pypdf>=4.0
+python-docx==1.2.0
+httpx==0.28.1
+fastembed==0.8.1

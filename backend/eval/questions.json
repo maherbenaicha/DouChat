@@ -1,0 +1,18 @@
+[
+  {"question": "Combien de jours de télétravail par semaine ?", "expected": "politique-teletravail"},
+  {"question": "Quel est le montant de l'indemnité de teletravial ?", "expected": "politique-teletravail"},
+  {"question": "Quel jour la présence au bureau est-elle obligatoire ?", "expected": "politique-teletravail"},
+  {"question": "Combien de jours de congés payés par an ?", "expected": "conges-et-absences"},
+  {"question": "Combien de jours pour un mariage ?", "expected": "conges-et-absences"},
+  {"question": "Délai pour envoyer un arrêt maladie ?", "expected": "conges-et-absences"},
+  {"question": "Qui m'accueille le premier jour ?", "expected": "guide-onboarding"},
+  {"question": "Durée du parrainage des nouveaux arrivants ?", "expected": "guide-onboarding"},
+  {"question": "Salaire d'un ingénieur confirmé ?", "expected": "grille-salaires-2026"},
+  {"question": "Quand a lieu la campagne d'augmentation ?", "expected": "grille-salaires-2026"},
+  {"question": "Quelles sont les étapes du recrutement ?", "expected": "procedure-recrutement"},
+  {"question": "Combien de temps dure le test technique ?", "expected": "procedure-recrutement"},
+  {"question": "Quelle base de données utilise la plateforme ?", "expected": "architecture-plateforme"},
+  {"question": "Combien de temps sont conservées les sauvegardes ?", "expected": "architecture-plateforme"},
+  {"question": "Temps de réponse pour un incident SEV1 ?", "expected": "runbook-incidents"},
+  {"question": "Qui assure l'astreinte ?", "expected": "runbook-incidents"}
+]
