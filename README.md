@@ -2,7 +2,7 @@
 
 DocuChat est un assistant qui répond aux questions des employés **à partir des documents internes de l'entreprise**. Chaque réponse cite ses sources, et chaque utilisateur ne voit que les documents de ses groupes.
 
-![CI](https://github.com/<votre-utilisateur>/docuchat/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/maherbenaicha/docuchat/actions/workflows/ci.yml/badge.svg)
 
 ## Fonctionnalités
 
@@ -38,7 +38,7 @@ flowchart LR
 Prérequis : Docker Desktop.
 
 ```bash
-git clone https://github.com/<votre-utilisateur>/docuchat.git
+git clone https://github.com/maherbenaicha/docuchat.git
 cd docuchat
 cp .env.example .env        # ajoutez votre clé GROQ_API_KEY (gratuite sur console.groq.com)
 docker compose up --build
